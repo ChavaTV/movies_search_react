@@ -12,5 +12,5 @@ Para probar el codigo, clone el repositorio de manera local y ejecute el comando
 
 Puede consultar el link que esta a su derecha pero por el tipo de protocolo, github pages usa HTTPS y la API usa HTTP por eso no muestra las peliculas.
 
-!(/public/test.png)
+(/public/test.png)
 
